@@ -1,0 +1,25 @@
+header {
+  background-color: #ffcad4;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+nav .nav-link {
+  color: black;
+  text-decoration: overline;
+}
+
+.h1-1 {
+  text-align: center;
+}
+
+section a{
+  text-decoration: none;
+  color: black;
+}
+
+main{
+  background-color: #ffe5d9;
+}

@@ -1,0 +1,50 @@
+main {
+  background-color: #ffe5d9;
+}
+
+.card img {
+  width: 300px;
+}
+
+.h1-1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.h3-1 {
+  text-align: center;
+}
+
+.img1 {
+  padding-left: 30%;
+}
+
+.img2 {
+  border: solid #b5838d;
+}
+
+.fa-brands {
+  padding-top: 100px;
+}
+
+.div2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.h2-2 {
+  margin-top: 50px;
+  text-align: center;
+  border: 3px #6d6875 solid;
+  border-radius: 5%;
+  background-color: #6d6875;
+  color: rgb(223, 161, 161);
+}
+
+.a1 {
+  text-decoration: none;
+}
+
+.bg{
+  background-color: #ffcad4;
+}
